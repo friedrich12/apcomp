@@ -47,7 +47,5 @@ public class Main {
                 Double.toString(Math.round((float) (B * 180 / PI))) + ", " + Double.toString(Math.round((float) (C * 180 / PI)));
         JOptionPane.showMessageDialog(frame2,ans2);
 
-
-        System.exit(0);
     }
 }
